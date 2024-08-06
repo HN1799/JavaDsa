@@ -1,4 +1,4 @@
-package com.pratice.array;
+package com.pratice.dsa.array;
 
 public class PreFixSum {
 	
